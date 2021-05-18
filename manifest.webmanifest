@@ -27,6 +27,9 @@
     "permissions": {
       "serviceworker": {}
     },
+    "serviceworker": {
+      "script_url": "sw.js"
+    },
     "messages": [
       {
         "serviceworker-notification": "index.html"
